@@ -1,0 +1,524 @@
+{
+  "ports": [
+	{
+	  "port": 1,
+	  "tagged": [],
+	  "untagged": [
+		10
+	  ]
+	},
+	{
+	  "port": 2,
+	  "tagged": [],
+	  "untagged": [
+		10
+	  ]
+	},
+	{
+	  "port": 3,
+	  "tagged": [],
+	  "untagged": [
+		10
+	  ]
+	},
+	{
+	  "port": 4,
+	  "tagged": [],
+	  "untagged": [
+		10
+	  ]
+	},
+	{
+	  "port": 5,
+	  "tagged": [],
+	  "untagged": [
+		10
+	  ]
+	},
+	{
+	  "port": 6,
+	  "tagged": [],
+	  "untagged": [
+		10
+	  ]
+	},
+	{
+	  "port": 7,
+	  "tagged": [],
+	  "untagged": [
+		10
+	  ]
+	},
+	{
+	  "port": 8,
+	  "tagged": [],
+	  "untagged": [
+		10
+	  ]
+	},
+	{
+	  "port": 9,
+	  "tagged": [],
+	  "untagged": [
+		10
+	  ]
+	},
+	{
+	  "port": 10,
+	  "tagged": [],
+	  "untagged": [
+		10
+	  ]
+	},
+	{
+	  "port": 11,
+	  "tagged": [],
+	  "untagged": [
+		10
+	  ]
+	},
+	{
+	  "port": 12,
+	  "tagged": [],
+	  "untagged": [
+		10
+	  ]
+	},
+	{
+	  "port": 13,
+	  "tagged": [],
+	  "untagged": [
+		10
+	  ]
+	},
+	{
+	  "port": 14,
+	  "tagged": [],
+	  "untagged": [
+		10
+	  ]
+	},
+	{
+	  "port": 15,
+	  "tagged": [],
+	  "untagged": [
+		10
+	  ]
+	},
+	{
+	  "port": 16,
+	  "tagged": [],
+	  "untagged": [
+		10
+	  ]
+	},
+	{
+	  "port": 17,
+	  "tagged": [],
+	  "untagged": [
+		30
+	  ]
+	},
+	{
+	  "port": 18,
+	  "tagged": [],
+	  "untagged": [
+		30
+	  ]
+	},
+	{
+	  "port": 19,
+	  "tagged": [],
+	  "untagged": [
+		30
+	  ]
+	},
+	{
+	  "port": 20,
+	  "tagged": [],
+	  "untagged": [
+		30
+	  ]
+	},
+	{
+	  "port": 21,
+	  "tagged": [],
+	  "untagged": [
+		30
+	  ]
+	},
+	{
+	  "port": 22,
+	  "tagged": [],
+	  "untagged": [
+		30
+	  ]
+	},
+	{
+	  "port": 23,
+	  "tagged": [],
+	  "untagged": [
+		30
+	  ]
+	},
+	{
+	  "port": 24,
+	  "tagged": [],
+	  "untagged": [
+		30
+	  ]
+	},
+	{
+	  "port": 25,
+	  "tagged": [],
+	  "untagged": [
+		40
+	  ]
+	},
+	{
+	  "port": 26,
+	  "tagged": [],
+	  "untagged": [
+		40
+	  ]
+	},
+	{
+	  "port": 27,
+	  "tagged": [],
+	  "untagged": [
+		40
+	  ]
+	},
+	{
+	  "port": 28,
+	  "tagged": [],
+	  "untagged": [
+		40
+	  ]
+	},
+	{
+	  "port": 29,
+	  "tagged": [],
+	  "untagged": [
+		40
+	  ]
+	},
+	{
+	  "port": 30,
+	  "tagged": [],
+	  "untagged": [
+		40
+	  ]
+	},
+	{
+	  "port": 31,
+	  "tagged": [],
+	  "untagged": [
+		40
+	  ]
+	},
+	{
+	  "port": 32,
+	  "tagged": [],
+	  "untagged": [
+		40
+	  ]
+	},
+	{
+	  "port": 33,
+	  "tagged": [],
+	  "untagged": [
+		20
+	  ]
+	},
+	{
+	  "port": 34,
+	  "tagged": [],
+	  "untagged": [
+		20
+	  ]
+	},
+	{
+	  "port": 35,
+	  "tagged": [],
+	  "untagged": [
+		1
+	  ]
+	},
+	{
+	  "port": 36,
+	  "tagged": [],
+	  "untagged": [
+		10
+	  ]
+	},
+	{
+	  "port": 37,
+	  "tagged": [],
+	  "untagged": [
+		1
+	  ]
+	},
+	{
+	  "port": 38,
+	  "tagged": [],
+	  "untagged": [
+		1
+	  ]
+	},
+	{
+	  "port": 39,
+	  "tagged": [],
+	  "untagged": [
+		1
+	  ]
+	},
+	{
+	  "port": 40,
+	  "tagged": [],
+	  "untagged": [
+		1
+	  ]
+	},
+	{
+	  "port": 41,
+	  "tagged": [],
+	  "untagged": [
+		1
+	  ]
+	},
+	{
+	  "port": 42,
+	  "tagged": [],
+	  "untagged": [
+		1
+	  ]
+	},
+	{
+	  "port": 43,
+	  "tagged": [],
+	  "untagged": [
+		100
+	  ]
+	},
+	{
+	  "port": 44,
+	  "tagged": [
+		10,
+		20,
+		30,
+		40
+	  ],
+	  "untagged": [
+		100
+	  ]
+	},
+	{
+	  "port": 45,
+	  "tagged": [
+		10,
+		20,
+		30,
+		40
+	  ],
+	  "untagged": [
+		100
+	  ]
+	},
+	{
+	  "port": 46,
+	  "tagged": [],
+	  "untagged": [
+		10
+	  ]
+	},
+	{
+	  "port": 47,
+	  "tagged": [],
+	  "untagged": [
+		17
+	  ]
+	},
+	{
+	  "port": 48,
+	  "tagged": [
+		10,
+		20,
+		30,
+		40,
+		100,
+		17
+	  ],
+	  "untagged": [
+		1
+	  ]
+	}
+  ],
+  "vlans": [
+	{
+	  "no_untagged": [
+		1,
+		2,
+		3,
+		4,
+		5,
+		6,
+		7,
+		8,
+		9,
+		10,
+		11,
+		12,
+		13,
+		14,
+		15,
+		16,
+		17,
+		18,
+		19,
+		20,
+		21,
+		22,
+		23,
+		24,
+		25,
+		26,
+		27,
+		28,
+		29,
+		30,
+		31,
+		32,
+		33,
+		34,
+		36,
+		43,
+		44,
+		45,
+		46,
+		47
+	  ],
+	  "id": 1,
+	  "tagged": [],
+	  "name": "DEFAULT_VLAN",
+	  "untagged": [
+		35,
+		37,
+		38,
+		39,
+		40,
+		41,
+		42,
+		48
+	  ]
+	},
+	{
+	  "no_untagged": [],
+	  "id": 10,
+	  "tagged": [
+		44,
+		45,
+		48
+	  ],
+	  "name": "Intern",
+	  "untagged": [
+		1,
+		2,
+		3,
+		4,
+		5,
+		6,
+		7,
+		8,
+		9,
+		10,
+		11,
+		12,
+		13,
+		14,
+		15,
+		16,
+		36,
+		46
+	  ]
+	},
+	{
+	  "no_untagged": [],
+	  "id": 20,
+	  "tagged": [
+		44,
+		45,
+		48
+	  ],
+	  "name": "Extern",
+	  "untagged": [
+		33,
+		34
+	  ]
+	},
+	{
+	  "no_untagged": [],
+	  "id": 30,
+	  "tagged": [
+		44,
+		45,
+		48
+	  ],
+	  "name": "Licht",
+	  "untagged": [
+		17,
+		18,
+		19,
+		20,
+		21,
+		22,
+		23,
+		24
+	  ]
+	},
+	{
+	  "no_untagged": [],
+	  "id": 40,
+	  "tagged": [
+		44,
+		45,
+		48
+	  ],
+	  "name": "Ton",
+	  "untagged": [
+		25,
+		26,
+		27,
+		28,
+		29,
+		30,
+		31,
+		32
+	  ]
+	},
+	{
+	  "no_untagged": [],
+	  "id": 100,
+	  "tagged": [
+		48
+	  ],
+	  "name": "Mgmt",
+	  "untagged": [
+		43,
+		44,
+		45
+	  ]
+	},
+	{
+	  "no_untagged": [],
+	  "id": 17,
+	  "tagged": [
+		48
+	  ],
+	  "name": "DMZ",
+	  "untagged": [
+		47
+	  ]
+	}
+  ]
+}

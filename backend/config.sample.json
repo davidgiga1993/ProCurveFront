@@ -1,0 +1,11 @@
+{
+  "switch": {
+	"host": "10.1.100.1",
+	"password": "myPass"
+  },
+  "backup": {
+	"runningConfig": true,
+	"destination": "/var/backup/switchConfig.bin",
+	"portConfig": "/var/www/85/static/portConfig.json"
+  }
+}
